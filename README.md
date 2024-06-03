@@ -1,5 +1,5 @@
 -- MySQL dump 10.13  Distrib 8.0.36, for Win64 (x86_64)
---
+-- * "server=localhost;port=3306;database=dentistchair;user=root;password=r0b3rt0Y@"
 -- Host: localhost    Database: dentistchair
 -- ------------------------------------------------------
 -- Server version	8.4.0
